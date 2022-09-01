@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "756940179734",
+    "project_id": "money-counter-3b836",
+    "storage_bucket": "money-counter-3b836.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756940179734:android:8c66fab07c1932bc092837",
+        "android_client_info": {
+          "package_name": "com.example.currency_counter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "756940179734-7oi15gst35f9s38ktr0t8fjj7t1bl1ti.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtxA9Fd-UHLvGZ0ISwmR-37bAkaqlBB3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "756940179734-7oi15gst35f9s38ktr0t8fjj7t1bl1ti.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "756940179734-4ohoj1j810o8hck9obr50gibfgvh106f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.currencyCounter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
