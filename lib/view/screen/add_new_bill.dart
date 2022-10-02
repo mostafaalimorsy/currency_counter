@@ -12,9 +12,6 @@ class AddNewBillScreen extends StatelessWidget {
         leading: IconButton(onPressed: (){
           Navigator.pop(context);
         }, icon: Icon(Icons.arrow_back_ios_new,color: defaultColor,)),
-        actions: [
-          IconButton(onPressed: (){}, icon: Icon(Icons.save_as_rounded,color: defaultColor,))
-        ],
       ),
       body: AddNewBill(),
     );
