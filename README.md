@@ -24,13 +24,10 @@
 
 
 ## ScreenShots
-       ## web ScreenShot
 ![0](screenshots/web/1.png)
 ![1](screenshots/web/2.png)
 ![2](screenshots/web/3.png)
 ![3](screenshots/web/4.png)
-
-        ## Mobile app ScreenShot
 ![4](screenshots/mobileapp/1.jpeg)
 ![5](screenshots/mobileapp/2.jpeg)
 ![6](screenshots/mobileapp/3.jpeg)
@@ -40,3 +37,4 @@
 ![10](screenshots/mobileapp/7.jpeg)
 ![11](screenshots/mobileapp/8.jpeg)
 ![12](screenshots/mobileapp/9.jpeg)
+
