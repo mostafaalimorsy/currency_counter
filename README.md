@@ -24,15 +24,12 @@
 
 
 ## ScreenShots
-       # web ScreenShot
 ![0](screenshots/web/1.png)
 ![1](screenshots/web/2.png)
 ![2](screenshots/web/3.png)
 ![3](screenshots/web/4.png)
-
-        # Mobile app ScreenShot
-![0](screenshots/mobile app/1.jpeg)
-![1](screenshots/mobile app/2.jpeg)
+![4](screenshots/mobile app/1.jpeg)
+![5](screenshots/mobile app/2.jpeg)
 ![6](screenshots/mobile app/3.jpeg)
 ![7](screenshots/mobile app/4.jpeg)
 ![8](screenshots/mobile app/5.jpeg)
